@@ -1,14 +1,14 @@
 {
   "android": {
     "version": "1.0.0",
-    "build": 40,
+    "build": 44,
     "url": "https://play.google.com/store/apps/details?id=com.ecmaintur.admin",
-    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
+    "notes": "Yayın yükü dengelenir, zayıf bağlantıda ses kopyası ve pil uyarısı."
   },
   "ios": {
     "version": "1.0.0",
-    "build": 44,
+    "build": 47,
     "url": "https://testflight.apple.com/join/2DerNDCC",
-    "notes": "Yayın kesilince bağlantı kendiliğinden onarılır; yayın yolculara ulaşmazsa uyarı verir; sorun kaydı iyileştirildi."
+    "notes": "Kalabalık gruplarda hızlı katılım, kopan yolcunun yayını bozmaması, ikinci köprü desteği ve otel Wi-Fi uyarısı."
   }
 }
